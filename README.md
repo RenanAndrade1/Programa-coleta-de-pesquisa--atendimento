@@ -10,6 +10,6 @@ O código foi realizado no VS Code <img src="https://cdn.jsdelivr.net/gh/devicon
 
 ## 📲 Como executar o programa:
 
-1. Baixe o projeto ou clone o repositório:
+1. Baixe o projeto ou clone o repositório:https://github.com/RenanAndrade1/Programa-coleta-de-pesquisa--atendimento
 2. Abra a pasta no VS Code 
 3. Execute o arquivo "RenanAndrade_AG8_DS.py"
