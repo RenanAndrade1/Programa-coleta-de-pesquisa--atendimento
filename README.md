@@ -1,6 +1,6 @@
 # Programa de coleta e exibição de uma pesquisa de atendimento
 
-esse programa tem o objetivo de entrevistar 50 clientes e mostrar no final quantas pessoas responderam **excelente** ou **ruim**
+esse programa tem o objetivo de entrevistar 50 clientes e mostrar no final quantas pessoas responderam a opção **excelente** ou **ruim**
 
 ## 💻 Tecnologias utilizadas:
 
